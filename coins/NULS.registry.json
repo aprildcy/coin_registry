@@ -1,25 +1,25 @@
 {
-  "algorithm": "",
+  "algorithm": "SHA256",
   "chat": [],
   "community": ["https://www.reddit.com/r/nulsservice"],
   "description": {
-    "en": ""
+    "en": "NULS is a microservices-driven blockchain project that uses the Proof of Credit (PoC) consensus mechanism (dPoS plus credit rating) to mine via staking. The NULS modular design features NULSTAR, a microservices-based framework reportedly enabling enterprise-grade blockchain solutions for smart contracts, private chains, public chains, dApps and NRC-20 tokenization. NULS 1.0 mainnet launched in July, 2018. The main product of NULS is Chain Factory, a chain-building tool that allows businesses to utilize the plug-and-play selection of modules from the NULS Module Repository including cross-chain consensus for asset value circulation within the NULS ecosystem."
   },
-  "explorer": [],
+  "explorer": ["https://nulscan.io/"],
   "fromSymbol": "NULS",
   "is_crypto": true,
-  "is_minable": false,
-  "name": "Nuls",
+  "is_minable": true,
+  "name": "NULS",
   "network": {
-    "t_available_supply": 71298368,
+    "t_available_supply": 71298080,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 104004303
+    "t_total_supply": 104004015
   },
-  "proof_type": "",
+  "proof_type": "POC",
   "quote": ["https://blockmodo.com/quotes/NULS"],
-  "social": ["https://twitter.com/@nulsservice"],
-  "source_code": [],
+  "social": ["https://twitter.com/@nuls"],
+  "source_code": ["https://https://github.com/nuls-io"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,
